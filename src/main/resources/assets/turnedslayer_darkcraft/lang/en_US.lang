@@ -1,0 +1,7 @@
+turnedslayer_darkcraft:blockDark.name=Dark Block
+turnedslayer_darkcraft:blockDarkBasicFurnace.name=Dark Basic Furnace
+turnedslayer_darkcraft:blockDarkDiamond.name=Dark Diamond Block
+turnedslayer_darkcraft:blockDarkGlass.name=Dark Glass Block
+turnedslayer_darkcraft:blockDarkDiamondBricks.name=Dark Diamond Bricks
+itemgroup.turnedslayer_darkcraft.name=DarkCraft
+

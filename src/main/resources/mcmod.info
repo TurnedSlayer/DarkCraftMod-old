@@ -1,0 +1,16 @@
+[
+{
+  "modid": "turnedslayer_darkcraft",
+  "name": "DarkCraft Mod",
+  "description": "DarkCraft, a mod about dark things.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["TurnedSlayer"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
