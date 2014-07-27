@@ -62,7 +62,7 @@ public class BluesteelBoots extends ItemArmor implements IEnergyContainerItem {
     public int getMaxEnergyStored(ItemStack container) {
         return storage.getMaxEnergyStored();
     }
-
+/*
     @Override
     public int getDisplayDamage (ItemStack stack)
     {
@@ -72,7 +72,7 @@ public class BluesteelBoots extends ItemArmor implements IEnergyContainerItem {
         }
         return 1 + capacity - stack.getTagCompound().getInteger("Energy");
     }
-
+*/
     @Override
     public int getEnergyStored (ItemStack container)
     {

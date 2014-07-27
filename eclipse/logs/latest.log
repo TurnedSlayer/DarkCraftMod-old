@@ -1,49 +1,29 @@
-[15:04:22] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[15:04:22] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
-[15:04:22] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
-[15:04:22] [main/INFO]: Forge Mod Loader version 7.10.1.1159 for Minecraft 1.7.10 loading
-[15:04:22] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_51, running on Windows 8:amd64:6.2, installed at C:\Program Files\Java\jdk1.7.0_51\jre
-[15:04:22] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
-[15:04:23] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:04:24] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[15:04:24] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:04:24] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[15:04:24] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:04:24] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
-[15:04:24] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:04:24] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
-[15:04:25] [main/ERROR]: The minecraft jar file:/C:/Users/quin1_000/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1159/forgeSrc-1.7.10-10.13.0.1159.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
-[15:04:25] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
-[15:04:25] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/quin1_000/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1159/forgeSrc-1.7.10-10.13.0.1159.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
-[15:04:25] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
-[15:04:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:04:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:04:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:04:25] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
-[15:04:25] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
-[15:04:26] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
-[15:04:28] [main/INFO]: Setting user: TurnedSlayer
-[15:04:30] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:04:31] [Client thread/INFO]: Attempting early MinecraftForge initialization
-[15:04:31] [Client thread/INFO]: MinecraftForge v10.13.0.1159 Initialized
-[15:04:31] [Client thread/INFO]: Replaced 182 ore recipies
-[15:04:31] [Client thread/INFO]: Completed early MinecraftForge initialization
-[15:04:31] [Client thread/INFO]: Searching C:\Development\DarkCraft1.7.10\eclipse\mods for mods
-[15:04:31] [Client thread/INFO]: Also searching C:\Development\DarkCraft1.7.10\eclipse\mods\1.7.10 for mods
-[15:04:34] [Client thread/WARN]: Zip file rt.jar failed to read properly, it will be ignored
-java.lang.NullPointerException
-	at cpw.mods.fml.common.discovery.asm.ASMModParser.isBaseMod(ASMModParser.java:130) ~[ASMModParser.class:?]
-	at cpw.mods.fml.common.ModContainerFactory.build(ModContainerFactory.java:34) ~[ModContainerFactory.class:?]
-	at cpw.mods.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:83) [JarDiscoverer.class:?]
-	at cpw.mods.fml.common.discovery.ContainerType.findMods(ContainerType.java:42) [ContainerType.class:?]
-	at cpw.mods.fml.common.discovery.ModCandidate.explore(ModCandidate.java:71) [ModCandidate.class:?]
-	at cpw.mods.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:123) [ModDiscoverer.class:?]
-	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:347) [Loader.class:?]
-	at cpw.mods.fml.common.Loader.loadMods(Loader.java:468) [Loader.class:?]
-	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:204) [FMLClientHandler.class:?]
-	at net.minecraft.client.Minecraft.startGame(Minecraft.java:532) [Minecraft.class:?]
-	at net.minecraft.client.Minecraft.run(Minecraft.java:941) [Minecraft.class:?]
-	at net.minecraft.client.main.Main.main(Main.java:164) [Main.class:?]
+[18:51:39] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:51:39] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:51:39] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[18:51:39] [main/INFO]: Forge Mod Loader version 7.10.1.1159 for Minecraft 1.7.10 loading
+[18:51:39] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.7.0_51, running on Windows 8:amd64:6.2, installed at C:\Program Files\Java\jdk1.7.0_51\jre
+[18:51:39] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[18:51:40] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:51:40] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18:51:40] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:51:40] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:51:40] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:51:40] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:51:40] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:40] [main/ERROR]: The binary patch set is missing. Either you are in a development environment, or things are not going to work!
+[18:51:41] [main/ERROR]: The minecraft jar file:/C:/Users/quin1_000/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1159/forgeSrc-1.7.10-10.13.0.1159.jar!/net/minecraft/client/ClientBrandRetriever.class appears to be corrupt! There has been CRITICAL TAMPERING WITH MINECRAFT, it is highly unlikely minecraft will work! STOP NOW, get a clean copy and try again!
+[18:51:41] [main/ERROR]: FML has been ordered to ignore the invalid or missing minecraft certificate. This is very likely to cause a problem!
+[18:51:41] [main/ERROR]: Technical information: ClientBrandRetriever was at jar:file:/C:/Users/quin1_000/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1159/forgeSrc-1.7.10-10.13.0.1159.jar!/net/minecraft/client/ClientBrandRetriever.class, there were 0 certificates for it
+[18:51:41] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[18:51:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:41] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:42] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:42] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:51:42] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[18:51:42] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[18:51:43] [main/ERROR]: Unable to launch
+java.lang.reflect.InvocationTargetException
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.7.0_51]
 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57) ~[?:1.7.0_51]
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_51]
@@ -55,132 +35,15 @@ java.lang.NullPointerException
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.7.0_51]
 	at java.lang.reflect.Method.invoke(Method.java:606) ~[?:1.7.0_51]
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134) [idea_rt.jar:?]
-[15:04:34] [Client thread/ERROR]: FML has detected a mod that is using a package name based on 'net.minecraft.src' : net.minecraft.src.FMLRenderAccessLibrary. This is generally a severe programming error.  There should be no mod code in the minecraft namespace. MOVE YOUR MOD! If you're in eclipse, select your source code and 'refactor' it into a new package. Go on. DO IT NOW!
-[15:04:36] [Client thread/INFO]: Forge Mod Loader has identified 7 mods to load
-[15:04:36] [Client thread/INFO]: Found mod(s) [turnedslayer_darkcraft] containing declared API package cofh.api.energy (owned by CoFHCore) without associated API reference
-[15:04:36] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.1.93-dev.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[15:04:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:DarkCraft Mod, FMLFileResourcePack:Ender IO
-[15:04:37] [Client thread/INFO]: Processing ObjectHolder annotations
-[15:04:37] [Client thread/INFO]: Found 341 ObjectHolder annotations
-[15:04:37] [Client thread/INFO]: Configured a dormant chunk cache size of 0
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:blockDarkDiamond, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:789)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:212)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:171)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:160)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.BlockHelper.register(BlockHelper.java:48)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.blocks.BlockDarkDiamond.<init>(BlockDarkDiamond.java:20)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:blockDarkDiamond, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:737)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:215)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:171)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:160)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.BlockHelper.register(BlockHelper.java:48)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.blocks.BlockDarkDiamond.<init>(BlockDarkDiamond.java:20)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:blockDark, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:789)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:212)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:171)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:160)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.BlockHelper.register(BlockHelper.java:48)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.blocks.BlockDark.<init>(BlockDark.java:20)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:blockDark, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:737)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:215)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:171)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:160)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.BlockHelper.register(BlockHelper.java:48)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.blocks.BlockDark.<init>(BlockDark.java:20)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:blockDarkDiamondBricks, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerBlock(GameData.java:789)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:212)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:171)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:160)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.BlockHelper.register(BlockHelper.java:48)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.blocks.BlockDarkDiamondBricks.<init>(BlockDarkDiamondBricks.java:19)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:blockDarkDiamondBricks, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:737)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:215)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:171)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerBlock(GameRegistry.java:160)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.BlockHelper.register(BlockHelper.java:48)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.blocks.BlockDarkDiamondBricks.<init>(BlockDarkDiamondBricks.java:19)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:itemBluesteelIngot, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:737)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:143)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:131)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.ItemHelper.register(ItemHelper.java:59)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.items.ItemBluesteelIngot.<init>(ItemBluesteelIngot.java:16)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.ItemHelper.init(ItemHelper.java:40)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:itemDiamondInfusedBluesteelIngot, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:737)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:143)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:131)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.ItemHelper.register(ItemHelper.java:59)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.items.ItemDiamondInfusedBluesteelIngot.<init>(ItemDiamondInfusedBluesteelIngot.java:16)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.ItemHelper.init(ItemHelper.java:41)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:itemChargedIngot, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:737)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:143)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:131)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.ItemHelper.register(ItemHelper.java:59)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.items.ItemChargedIngot.<init>(ItemChargedIngot.java:16)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.ItemHelper.init(ItemHelper.java:42)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/WARN]: * Illegal extra prefix turnedslayer_darkcraft for name turnedslayer_darkcraft:itemDarkGem, invalid registry invocation/invalid name?
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:737)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:143)
-[15:04:38] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:131)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.ItemHelper.register(ItemHelper.java:59)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.items.ItemDarkGem.<init>(ItemDarkGem.java:17)
-[15:04:38] [Client thread/WARN]: *  at com.turnedslayer.darkcraft.help.ItemHelper.init(ItemHelper.java:43)...
-[15:04:38] [Client thread/WARN]: ****************************************
-[15:04:38] [Client thread/INFO]: Applying holder lookups
-[15:04:38] [Client thread/INFO]: Holder lookups applied
-[15:04:39] [Sound Library Loader/INFO]: Sound engine started
-[15:04:40] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[15:04:40] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[15:04:40] [CodeChicken Update Checker/ERROR]: Failed to check notifications: 
-[15:04:41] [Client thread/WARN]: RecipeParser: Could not parse a valid int for attribute itemMeta with value *
-[15:04:41] [Client thread/WARN]: RecipeParser: Could not parse a valid int for attribute itemMeta with value *
-[15:04:41] [Client thread/WARN]: RecipeParser: Found element <itemStack> with no recipe decleration.
-[15:04:41] [Client thread/WARN]: RecipeParser: Found element <itemStack> with no recipe decleration.
-[15:04:41] [Client thread/WARN]: RecipeParser: Found element <itemStack> with no recipe decleration.
-[15:04:41] [Client thread/WARN]: RecipeParser: Could not parse a valid int for attribute itemMeta with value *
-[15:04:41] [Client thread/WARN]: RecipeParser: Found element <itemStack> with no recipe decleration.
-[15:04:41] [Client thread/INFO]: Loaded 2 grinding balls from SAG Mill config.
-[15:04:41] [Client thread/INFO]: Excluding 2 recipes from grinding balls bonus.
-[15:04:41] [Client thread/INFO]: Found 31 valid SAG Mill recipes in config.
-[15:04:41] [Client thread/WARN]: Not adding supplied recipe as a recipe already exists for the input: 1xitem.ingotIron@0
-[15:04:41] [Client thread/WARN]: Not adding supplied recipe as a recipe already exists for the input: 1xitem.ingotGold@0
-[15:04:41] [Client thread/INFO]: Finished processing Alloy Smelter recipes. 29 recipes avaliable.
-[15:04:41] [Client thread/INFO]: Found 13 valid Alloy Smelter recipes in config.
-[15:04:41] [Client thread/INFO]: AlloyRecipeManager: Vannila smelting in AlloySmelting enabled=true
-[15:04:41] [Client thread/INFO]: Finished processing Alloy Smelter recipes. 13 recipes avaliable.
-[15:04:41] [Client thread/INFO]: Found 4 valid Vat recipes in config.
-[15:04:41] [Client thread/INFO]: Finished processing Vat recipes. 4 recipes avaliable.
-[15:04:41] [Client thread/INFO]: Forge Mod Loader has successfully loaded 7 mods
-[15:04:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:DarkCraft Mod, FMLFileResourcePack:Ender IO
-[15:04:41] [Client thread/INFO]: Created: 512x256 textures/items-atlas
-[15:04:42] [Client thread/INFO]: Created: 512x512 textures/blocks-atlas
-[15:04:43] [Sound Library Loader/INFO]: Sound engine started
-[15:04:48] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
-[15:04:58] [Client thread/INFO]: Stopping!
+Caused by: java.lang.UnsatisfiedLinkError: no lwjgl in java.library.path
+	at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1886) ~[?:1.7.0_51]
+	at java.lang.Runtime.loadLibrary0(Runtime.java:849) ~[?:1.7.0_51]
+	at java.lang.System.loadLibrary(System.java:1088) ~[?:1.7.0_51]
+	at org.lwjgl.Sys$1.run(Sys.java:73) ~[lwjgl-2.9.1.jar:?]
+	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.7.0_51]
+	at org.lwjgl.Sys.doLoadLibrary(Sys.java:66) ~[lwjgl-2.9.1.jar:?]
+	at org.lwjgl.Sys.loadLibrary(Sys.java:95) ~[lwjgl-2.9.1.jar:?]
+	at org.lwjgl.Sys.<clinit>(Sys.java:112) ~[lwjgl-2.9.1.jar:?]
+	at net.minecraft.client.Minecraft.getSystemTime(Minecraft.java:2821) ~[Minecraft.class:?]
+	at net.minecraft.client.main.Main.main(Main.java:79) ~[Main.class:?]
+	... 11 more

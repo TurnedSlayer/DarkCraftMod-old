@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d7f6db8-7cbf-464b-bfd6-1b2350066e9a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/TileDarkInfuser.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-06-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-06-1.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-06-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-06-2.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-06-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-06-3.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-06-4.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-06-4.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-06-5.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-06-5.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-06-6.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-06-6.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-06-7.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-06-7.log.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/items/armour/BluesteelBoots.java" afterPath="$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/items/armour/BluesteelBoots.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sbt_2.10-default.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sbt_2.10-default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_2.10-default.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_2.10-default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-compile-internal.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-compile.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-docs.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-optional.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-plugin.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-pom.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-provided.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-runtime-internal.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-runtime.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-scala-tool.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-sources.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-test-internal.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-test.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/reports/default-untitled$sources_javadoc_2.10-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/untitled/target/streams/$global/updateClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/untitled/target/streams/$global/updateSbtClassifiers/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sbt_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sbt_2.10/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sources_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sources_2.10/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sources_javadoc_2.10/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sources_javadoc_2.10/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sbt_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sbt_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sources_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sources_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sources_javadoc_2.10/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/untitled/target/resolution-cache/default/untitled$sources_javadoc_2.10/0.1-SNAPSHOT/resolved.xml.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DarkCraft1.7.10.iws" />
@@ -26,65 +57,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DarkCraft.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/DarkCraft.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1156">
-              <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockDarkInfuser.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/multiBlocks/BlockDarkInfuser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1037">
-              <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TileDarkInfuser.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/TileDarkInfuser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49853373" vertical-offset="0" max-vertical-offset="1071">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TileDarkBasicFurnace.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="TileDarkBasicFurnace.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/TileDarkBasicFurnace.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="3876" max-vertical-offset="4590">
-              <caret line="258" column="4" selection-start-line="258" selection-start-column="4" selection-end-line="286" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IHasFiller.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/IHasFiller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BlockDoor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1159/forgeSrc-1.7.10-10.13.0.1159-sources.jar!/net/minecraft/block/BlockDoor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7463">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state vertical-scroll-proportion="9.025171" vertical-offset="0" max-vertical-offset="4590">
+              <caret line="256" column="0" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -111,6 +88,7 @@
     <option name="tasksExpandState">
       <map>
         <entry key="" value="true" />
+        <entry key="DarkCraft1.7.10/" value="false" />
       </map>
     </option>
     <option name="availableProjects">
@@ -761,6 +739,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/IHasFiller.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/multiBlocks/BlockDarkInfuser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/TileDarkInfuser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/items/armour/BluesteelBoots.java" />
       </list>
     </option>
   </component>
@@ -796,6 +775,26 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DarkCraft1.7.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DarkCraft1.7.10" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DarkCraftMod" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="PackagesPane">
         <subPane>
           <PATH>
@@ -972,26 +971,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DarkCraft1.7.10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DarkCraft1.7.10" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DarkCraftMod" />
-              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -1046,14 +1025,6 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
     <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
       <module name="" />
       <setting name="path" value="" />
@@ -1065,6 +1036,27 @@
       <setting name="testName" value="" />
       <setting name="testKind" value="Class" />
       <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -1092,19 +1084,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -1154,6 +1133,19 @@
       <patterns />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -1174,24 +1166,11 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="false" name="Minecraft Client" type="Application" factoryName="Application">
       <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
       <option name="MAIN_CLASS_NAME" value="net.minecraft.launchwrapper.Launch" />
-      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M -Djava.library.path=&quot;$PROJECT_DIR$/../DarkCraft1.7.10\build\natives&quot; -Dfml.ignoreInvalidMinecraftCertificates=true" />
-      <option name="PROGRAM_PARAMETERS" value="--version 1.7 --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --username=TurnedSlayer --accessToken FML --userProperties={} --assetsDir=eclipse/assets" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M -Djava.library.path=&quot;$PROJECT_DIR$/../DarkCraftMod\build\natives&quot; -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
@@ -1335,7 +1314,11 @@
       <created>1406137536644</created>
       <updated>1406137536644</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Working on the multiblock">
+      <created>1406137851038</created>
+      <updated>1406137851038</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -1366,7 +1349,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.49966466" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.49966466" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32489452" sideWeight="0.49966466" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32911393" sideWeight="0.50033534" order="7" side_tool="true" content_ui="tabs" />
@@ -1381,14 +1364,14 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24949698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32816902" sideWeight="0.49966466" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32676056" sideWeight="0.49966466" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957748" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957748" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="CVS" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32957748" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1419,13 +1402,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1159/forgeSrc-1.7.10-10.13.0.1159-sources.jar!/net/minecraft/inventory/ContainerFurnace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1037" max-vertical-offset="3128">
-          <caret line="61" column="80" selection-start-line="61" selection-start-column="80" selection-end-line="61" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/DarkCraft.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1513">
@@ -1738,7 +1714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.67203516" vertical-offset="0" max-vertical-offset="683">
           <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1746,7 +1721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.43432835" vertical-offset="15621" max-vertical-offset="40035">
           <caret line="1073" column="0" selection-start-line="1073" selection-start-column="0" selection-end-line="1073" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1754,23 +1728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/IHasFiller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/TileDarkBasicFurnace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="3876" max-vertical-offset="4590">
-          <caret line="258" column="4" selection-start-line="258" selection-start-column="4" selection-end-line="286" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1778,19 +1735,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="1037">
           <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/TileDarkInfuser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49853373" vertical-offset="0" max-vertical-offset="1071">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/items/armour/BluesteelBoots.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="1343">
+          <caret line="74" column="2" selection-start-line="74" selection-start-column="2" selection-end-line="74" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/IHasFiller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45333335" vertical-offset="0" max-vertical-offset="450">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/turnedslayer/darkcraft/blocks/tiles/TileDarkBasicFurnace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="9.025171" vertical-offset="0" max-vertical-offset="4590">
+          <caret line="256" column="0" selection-start-line="256" selection-start-column="0" selection-end-line="256" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
